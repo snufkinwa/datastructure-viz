@@ -6,7 +6,7 @@
 
 ### Sushi Game (Arrays)
 
-This visualization uses a sushi conveyor belt analogy to demonstrate array operations. Users can add, remove, and manipulate elements in a way that visually represents how arrays function, including indexing and shifting elements.
+This visualization uses a sushi conveyor belt analogy to demonstrate array operations. Users can add, remove, and manipulate elements in a way that visually represents how arrays function, including indexing elements.
 
 ### Matrix (Hash Tables)
 
